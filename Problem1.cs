@@ -2,7 +2,7 @@
 
 namespace HelloWorld
 {
-    class Program
+    class Problem1
     {
         static void Main(string[] args)
         {
@@ -17,5 +17,7 @@ if(line == "enter")
 }
             
         }
+
+
     }
 }
